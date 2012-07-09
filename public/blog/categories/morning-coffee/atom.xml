@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Morning Coffee | Xenocid's Lair]]></title>
+  <link href="http://xenocid.com/blog/categories/morning-coffee/atom.xml" rel="self"/>
+  <link href="http://xenocid.com/"/>
+  <updated>2012-07-08T23:38:05-07:00</updated>
+  <id>http://xenocid.com/</id>
+  <author>
+    <name><![CDATA[Alex Koloskov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Morning Coffee #1]]></title>
+    <link href="http://xenocid.com/blog/2012/07/08/morning-coffee-number-1/"/>
+    <updated>2012-07-08T23:32:00-07:00</updated>
+    <id>http://xenocid.com/blog/2012/07/08/morning-coffee-number-1</id>
+    <content type="html"><![CDATA[<ul>
+<li><a href="http://www.macsparky.com/">David Sparks</a> did a <a href="http://www.macsparky.com/blog/2012/7/3/function-key-management-with-palua-screencast.html">short screencast</a> on the little app called <a href="http://itunes.apple.com/us/app/palua/id431494195?mt=12">Palua</a>, which allows you to switch your functional keys between, well…, being functional keys or being keys with Apple-specific functions (like brightness or volume control etc.) In other words, if you're using function keys a lot and you're struggling with pressing Fn + function key (which on my Macbook Pro are respectively top and bottom rows of the keyboard), then you would love [Palua] (http://itunes.apple.com/us/app/palua/id431494195?mt=12). Personally, I think the best feature of the app is an ability to set the default mode for each individual app, so let's say I want to use function keys in Vim and don't want to press Fn each and every time, then I can make function keys mode to be default for Vim. Oh, and the best part - it's just a buck.
+<iframe width="" height="" src="http://player.vimeo.com/video/45114251 " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></li>
+<li>Really glad to see that <a href="http://www.kickstarter.com/projects/260688528/clang">Neal Stephenson's Clang project on Kickstarter</a> actually reached its goal of 500k, which means that it may actually happen now. I'm interested in the concept and though the fact that it's going to be a PC game makes it less interesting for me (my gaming is now pretty much exclusively on iPad and Xbox (well, and on a Mac too)), still it's an interesting project and I wish it well. Plus they're here, in Seattle, which makes it infinitely cool.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
