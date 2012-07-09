@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Xenocid's Lair]]></title>
-  <link href="http://xenocid.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: productivity | Xenocid's Lair]]></title>
+  <link href="http://xenocid.com/blog/categories/productivity/atom.xml" rel="self"/>
   <link href="http://xenocid.com/"/>
   <updated>2012-04-27T15:20:26-07:00</updated>
   <id>http://xenocid.com/</id>
@@ -18,8 +18,7 @@
     <link href="http://xenocid.com/blog/2012/04/27/test_post/"/>
     <updated>2012-04-27T00:00:00-07:00</updated>
     <id>http://xenocid.com/blog/2012/04/27/test_post</id>
-    <content type="html"><![CDATA[<blockquote><p>&#8220;Love, be loved and never stop learning&#8230;&#8221;</p></blockquote>
-
+    <content type="html"><![CDATA[<p><blockquote><p>"Love, be loved and never stop learning..."</p></blockquote></p>
 
 <p>It will take some experimentation to get up to speed with the Octopress, but I like it so far</p>
 ]]></content>
