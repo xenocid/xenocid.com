@@ -4,7 +4,7 @@
   <title><![CDATA[Category: productivity | Xenocid's Lair]]></title>
   <link href="http://xenocid.com/blog/categories/productivity/atom.xml" rel="self"/>
   <link href="http://xenocid.com/"/>
-  <updated>2012-07-11T23:34:51-07:00</updated>
+  <updated>2012-08-29T14:26:57-07:00</updated>
   <id>http://xenocid.com/</id>
   <author>
     <name><![CDATA[Alex Koloskov]]></name>
@@ -18,7 +18,7 @@
     <link href="http://xenocid.com/blog/2012/04/27/test_post/"/>
     <updated>2012-04-27T00:00:00-07:00</updated>
     <id>http://xenocid.com/blog/2012/04/27/test_post</id>
-    <content type="html"><![CDATA[<p><blockquote><p>"Love, be loved and never stop learning..."</p></blockquote></p>
+    <content type="html"><![CDATA[<p>Liquid error: undefined method `map' for "\n\"Love, be loved and never stop learning...\"\n":String</p>
 
 <p>It will take some experimentation to get up to speed with the Octopress, but I like it so far</p>
 ]]></content>
